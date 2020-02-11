@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Instant Replay
 //
-//  Created by Kyle Lee on 5/28/17.
-//  Copyright © 2017 Kyle Lee. All rights reserved.
+//  Created by Bruno Valente on 27/01/20.
+//  Copyright © 2020 ValenteBruno. All rights reserved.
 //
 
 import UIKit
